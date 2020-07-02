@@ -1,9 +1,8 @@
 # ftree
-
 This is a my file tree
 
 all directorys have placeholder files that can be replaced when in uses
-
+### overview
 ```
 
 |-- home
@@ -52,3 +51,6 @@ all directorys have placeholder files that can be replaced when in uses
         |-- movie
         `-- tv
 ```
+### reference
+* [r/datacurator](https://www.reddit.com/r/datacurator/)
+* [datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree)
