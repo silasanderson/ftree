@@ -1,5 +1,4 @@
 # ftree
-"
 -- root
     |-- 3d
     |-- audio
@@ -40,4 +39,3 @@
     `-- video
         |-- movie
         `-- tv
-"
