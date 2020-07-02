@@ -1,15 +1,13 @@
 # ftree
 
+This is a my file tree 
+
 ```bash
 
 |-- home
-
 |   |-- Downlowds
-
 |   |-- project
-
 |   |-- script
-
 |   `-- source
 `-- root
     |-- 3d
@@ -51,3 +49,4 @@
     `-- video
         |-- movie
         `-- tv
+```
