@@ -3,15 +3,6 @@ This is my file tree
 
 all directorys have placeholder files that can be replaced when in uses
 ### overview
-#### Abbreviations
-| Abbreviation	|full		| about		 |
-|	-----------	| ------	|------------|
-| bin			| binary	| A binary code represents text, computer processor instructions, or any other data using a two-symbol system|
-| win 			| windows	| Microsoft's perpriitary operating system|
-| os			| Operating system |software that controls the operation of a computer and directs the processing of programs|
-| source		| source code| a computer program in its original programming language before translation into object code usually by a compiler|
-| unix 			| Uniplexed Information and Computing System|  an open source, multiuser, multitasking computer operating system.
-
 #### [home](https://github.com/silasanderson/ftree/tree/master/home)
 ```
 ├── Downlowds
@@ -63,6 +54,17 @@ all directorys have placeholder files that can be replaced when in uses
 
 ```
 > made with [tree](http://mama.indstate.edu/users/ice/tree/)
+
+#### Abbreviations
+| Abbreviation	|full		| about		 |
+|	-----------	| ------	|------------|
+| bin			| binary	| A binary code represents text, computer processor instructions, or any other data using a two-symbol system|
+| win 			| windows	| Microsoft's perpriitary operating system|
+| os			| Operating system |software that controls the operation of a computer and directs the processing of programs|
+| source		| source code| a computer program in its original programming language before translation into object code usually by a compiler|
+| unix 			| Uniplexed Information and Computing System|  an open source, multiuser, multitasking computer operating system.
+
+
 ### reference
 * [r/datacurator](https://www.reddit.com/r/datacurator/)
 * [datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree)
