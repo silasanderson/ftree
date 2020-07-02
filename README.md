@@ -1,6 +1,7 @@
 # ftree
 
 This is a my file tree 
+all directorys have placeholder files that can be replaced when in uses
 
 ```
 
