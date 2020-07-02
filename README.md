@@ -1,7 +1,7 @@
 # ftree
 .
-|-- home
-|   |-- Downlowds
+#|-- home
+#|   |-- Downlowds
 |   |-- project
 |   |-- script
 |   `-- source
