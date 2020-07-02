@@ -2,7 +2,7 @@
 
 This is a my file tree 
 
-```bash
+```
 
 |-- home
 |   |-- Downlowds
