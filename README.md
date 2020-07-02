@@ -3,14 +3,14 @@ This is a my file tree
 
 all directorys have placeholder files that can be replaced when in uses
 ### overview
-#### home
+#### [home](https://github.com/silasanderson/ftree/tree/master/home)
 ```
 ├── Downlowds
 ├── project
 ├── script
 └── source
 ```
-#### root
+#### [root](https://github.com/silasanderson/ftree/tree/master/root)
 ```
 ├── 3d
 ├── audio
