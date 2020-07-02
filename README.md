@@ -1,5 +1,14 @@
 # ftree
--- root
+.
+|-- home
+|   |-- Downlowds
+|   |-- project
+|   |-- script
+|   `-- source
+
+
+
+`-- root
     |-- 3d
     |-- audio
     |   |-- book
