@@ -65,6 +65,7 @@ all directorys have placeholder files that can be replaced when in uses
 | source                | source code   | a computer program in its original programming language before translation into object code usually by a compiler|
 | unix                  | Uniplexed Information and Computing System|  an open source, multiuser, multitasking computer operating system.|
 | win                   | windows       | Microsoft's perpriitary operating system|
+
 ### reference
 * [r/datacurator](https://www.reddit.com/r/datacurator/)
 * [datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree)
