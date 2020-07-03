@@ -62,8 +62,9 @@ all directorys have placeholder files that can be replaced when in uses
 | win 			| windows	| Microsoft's perpriitary operating system|
 | os			| Operating system |software that controls the operation of a computer and directs the processing of programs|
 | source		| source code| a computer program in its original programming language before translation into object code usually by a compiler|
-| unix 			| Uniplexed Information and Computing System|  an open source, multiuser, multitasking computer operating system.
-
+| unix 			| Uniplexed Information and Computing System|  an open source, multiuser, multitasking computer operating system.|
+| rpg           | role playing game | players assume the roles of characters in a fictional setting |
+| sfx           | sound effects | imitative of sounds called for in the script of a dramatic production and that enhance the production's illusion of reality|
 
 ### reference
 * [r/datacurator](https://www.reddit.com/r/datacurator/)
