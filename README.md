@@ -54,7 +54,7 @@ all directorys have placeholder files that can be replaced when in uses
 ```
 > made with [tree](http://mama.indstate.edu/users/ice/tree/)
 
-### Abbreviations
+### key
 | Abbreviation	|full		| about		 |
 |	-----------	| ------	|------------|
 | bin                   | binary        | A binary code represents text, computer processor instructions, or any other data using a two-symbol system|
