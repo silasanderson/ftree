@@ -5,7 +5,8 @@ all directorys have placeholder files that can be replaced when in uses
 ### overview
 #### [home](https://github.com/silasanderson/ftree/tree/master/home)
 ```
-├── Downlowds
+├── downlowds
+├── misc
 ├── project
 ├── script
 └── source
