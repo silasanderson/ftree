@@ -63,7 +63,7 @@ This file stuctor is made to be placed in the root dorectory of a media storage 
 | Abbreviation	|full		| about		 |
 |	-----------	| ------	|------------|
 | bin                   | binary            | A binary code represents text, computer processor instructions, or any other data using a two-symbol system|
-| mac                   | macintosh         | [apple's](https://www.apple.com/) perpriitary computer operating system
+| mac                   | macintosh         | [Apple's](https://www.apple.com/) perpriitary computer operating system
 | os                    | operating system  |software that controls the operation of a computer and directs the processing of programs|
 | rpg                   | role playing game | players assume the roles of characters in a fictional setting |
 | sfx                   | sound effects     | imitative of sounds called for in the script of a dramatic production and that enhance the production's illusion of reality|
