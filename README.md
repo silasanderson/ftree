@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/silasanderson/ftree/master/ftree.png)
+![logo](https://raw.githubusercontent.com/silasanderson/ftree/master/logo.png)
 
 # ftree
 This is my file tree
