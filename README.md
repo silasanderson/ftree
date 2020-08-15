@@ -1,7 +1,6 @@
-# ftree
-
 ![alt text](https://raw.githubusercontent.com/silasanderson/ftree/master/ftree.png)
 
+# ftree
 This is my file tree
 
 all directorys have placeholder files that can be replaced when in uses
