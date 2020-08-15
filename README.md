@@ -12,7 +12,7 @@ all directorys have placeholder files that can be replaced when in uses
 └── source
 ```
 #### [root](https://github.com/silasanderson/ftree/tree/master/root)
-this file stuctor is made to be placed in the root dorectory of a media storage device.
+This file stuctor is made to be placed in the root dorectory of a media storage device.
 
 > warning if you only have one hard drive do not place this in its root
 
