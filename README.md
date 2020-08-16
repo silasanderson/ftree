@@ -39,6 +39,7 @@ This file stuctor is made to be placed in the root dorectory of a media storage 
 ├── backup
 ├── code
 │   ├── bin
+│   │   ├── mac
 │   │   ├── unix
 │   │   └── win
 │   ├── firmware
